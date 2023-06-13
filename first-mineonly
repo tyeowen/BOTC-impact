@@ -1,0 +1,23 @@
+[
+  {
+    "id": "_meta",
+    "name": "BOTCIMPACT",
+    "author": "Tye Owen",
+    "logo": ""
+  },
+  {
+    "id": "mime",
+    "image": "https://github.com/bra1n/townsquare/blob/main/src/assets/icons/acrobat.png?raw=true",
+    "edition": "custom",
+    "firstNight": 49,
+    "firstNightReminder": "If the mime has been chosen by a good players ability tonight, they get to use it",
+    "otherNight": 49,
+    "otherNightReminder": "If the mime has been chosen by a good players ability tonight, they get to use it.",
+    "reminders": ["Mimed"],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Mime",
+    "team": "minion",
+    "ability": "Each night, the first good player to choose you with their ability is poisoned unti dusk. You gain their charecters ability until dusk."
+  }
+]
