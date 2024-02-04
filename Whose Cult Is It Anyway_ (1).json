@@ -1,7 +1,7 @@
 [{"id": "_meta", "name": "Whose Cult Is It Anyway? (v2.4)", "author": "Aero"},
  {
     "id": "Village Idiot",
-    "image": "https://wiki.bloodontheclocktower.com/images/d/da/Icon_villageidiot.png?raw=true,
+    "image": "https://wiki.bloodontheclocktower.com/images/d/da/Icon_villageidiot.png?raw=true",
     "edition": "custom",
     "firstNight": 99,
     "firstNightReminder": "Choose a player: you learn their alignment.",
@@ -12,11 +12,11 @@
     "setup": true,
     "name": "Village Idiot",
     "team": "townsfolk",
-    "ability": Each night, choose a player: you learn their alignment. +0 to +2 Village Idiots. 1 of the extras is drunk"
+    "ability": "Each night, choose a player: you learn their alignment. +0 to +2 Village Idiots. 1 of the extras is drunk"
   },
  {
     "id": "Hatter",
-    "image": "https://wiki.bloodontheclocktower.com/images/4/44/Icon_hatter.png?raw=true,
+    "image": "https://wiki.bloodontheclocktower.com/images/4/44/Icon_hatter.png?raw=true",
     "edition": "custom",
     "firstNight": 0,
     "firstNightReminder":,
@@ -27,6 +27,6 @@
     "setup": false,
     "name": "Hatter",
     "team": "outsider",
-    "ability": If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be."
+    "ability": "If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be."
   },
 {"id": "noble"}, {"id": "pixie"}, {"id": "king"}, {"id": "village_idiot"}, {"id": "balloonist"}, {"id": "cult_leader"}, {"id": "fortune_teller"}, {"id": "oracle"}, {"id": "lycanthrope"}, {"id": "savant"}, {"id": "seamstress"}, {"id": "choirboy"}, {"id": "cannibal"}, {"id": "puzzlemaster"}, {"id": "recluse"}, {"id": "mutant"}, {"id": "hatter"}, {"id": "witch"}, {"id": "cerenovus"}, {"id": "fearmonger"}, {"id": "goblin"}, {"id": "lil_monsta"}, {"id": "no_dashii"}, {"id": "vortox"}, {"id": "fang_gu"}, {"id": "storm_catcher"}]
