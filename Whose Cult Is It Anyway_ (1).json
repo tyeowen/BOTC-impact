@@ -19,7 +19,7 @@
     "image": "https://wiki.bloodontheclocktower.com/images/4/44/Icon_hatter.png?raw=true",
     "edition": "custom",
     "firstNight": 0,
-    "firstNightReminder":,
+    "firstNightReminder":"none",
     "otherNight": 30,
     "otherNightReminder": "If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be",
     "reminders":,
