@@ -22,7 +22,7 @@
     "firstNightReminder":"none",
     "otherNight": 30,
     "otherNightReminder": "If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be",
-    "reminders":,
+    "reminders":["Hatter"],
     "remindersGlobal": [],
     "setup": false,
     "name": "Hatter",
